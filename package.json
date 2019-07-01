@@ -1,6 +1,6 @@
 {
   "name": "acl-forked",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "An Access Control List module, based on Redis with Express middleware support",
   "keywords": [
     "middleware",
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/scofield5658/node_acl"
+    "url": "https://github.com/scofield5658/acl-forked"
   },
   "author": "guozhi <zhi.guo@geekthings.com.cn>",
   "engines": {
