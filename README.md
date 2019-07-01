@@ -13,4 +13,4 @@
 [node-url]: http://nodejs.org/download/
 [download-image]: https://img.shields.io/npm/dm/acl-forked.svg?style=flat-square
 [download-url]: https://npmjs.org/package/acl-forked
-[license-image]: https://img.shields.io/github/license/scofield5658/acl_forked.svg
+[license-image]: https://img.shields.io/github/license/scofield5658/acl-forked.svg
