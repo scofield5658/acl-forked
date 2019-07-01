@@ -1,6 +1,6 @@
 {
-  "name": "@scofield5658/acl",
-  "version": "0.4.11",
+  "name": "acl-forked",
+  "version": "0.4.12",
   "description": "An Access Control List module, based on Redis with Express middleware support",
   "keywords": [
     "middleware",
